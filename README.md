@@ -7,3 +7,6 @@ Hate speech detection on is critical for applications like controversial event e
 The goal of the project is to create models for classifying text contents as offensive (e.g., racist, sexist or other) and to determine the most relevant terminology for each category and to extract relevant aspects in the hate speech. By working on datasets in different languages, such as English and Italian, it is also possible to study the main differences in the lexicon of hate in the two languages.
 
 The goal of the project can also be adapted to other tasks or text phenomena, such as sarcasm, moral values, political opinions and so on. In general, the idea is to find a lexical explanation with respect to the decision of a classifier.
+
+data source: https://github.com/ellamguest/online-misogyny-eacl2021/tree/main/data (final_labels.csv: the dataset of agreed labels)
+
