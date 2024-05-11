@@ -10,3 +10,4 @@ The goal of the project can also be adapted to other tasks or text phenomena, su
 
 data source: https://github.com/ellamguest/online-misogyny-eacl2021/tree/main/data (final_labels.csv: the dataset of agreed labels)
 
+models, data, notebooks: https://drive.google.com/drive/folders/1oCHCc1_c_jeed8roxQgloFSh0OFwBtpb
