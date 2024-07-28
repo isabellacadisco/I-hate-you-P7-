@@ -8,6 +8,8 @@ The goal of the project is to create models for classifying text contents as off
 
 The goal of the project can also be adapted to other tasks or text phenomena, such as sarcasm, moral values, political opinions and so on. In general, the idea is to find a lexical explanation with respect to the decision of a classifier.
 
+Aim of my project is to identify misogynist speeches.
+
 data source: https://github.com/ellamguest/online-misogyny-eacl2021/tree/main/data (final_labels.csv: the dataset of agreed labels)
 
 models, data, notebooks: https://drive.google.com/drive/folders/1oCHCc1_c_jeed8roxQgloFSh0OFwBtpb
